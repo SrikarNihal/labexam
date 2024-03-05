@@ -1,0 +1,8 @@
+Company,Model,Transmission,Year,Engine,Doors
+Audi,A3,Manual,2020,1500 (cc),5 doors
+BMW,320d,Manual,2022,2000 (cc),5 doors
+Jaguar,XE,Manual,2022,2000 (cc),5 doors
+Audi,Q3,Manual,2023,2000 (cc),5 doors
+Audi,Q5,Manual,2023,2000 (cc),5 doors
+BMW,X1,Manual,2024,2000 (cc),5 doors
+BMW,X3,Manual,2024,2000 (cc),5 doors
